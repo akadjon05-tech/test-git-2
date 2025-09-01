@@ -6,3 +6,10 @@
 6. git reset [files] -удаляет файлы из stage
 7. git diff показывает измененные строки
 8. git reset --hard  откатить изменения
+9. git branch [название ветки]
+10. git checkout -переключение м/ду ветками
+
+main
+develop
+feature/main-page
+feature/about-company
