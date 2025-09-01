@@ -8,6 +8,7 @@
 8. git reset --hard  откатить изменения
 9. git branch [название ветки]
 10. git checkout -переключение м/ду ветками
+11. git pull [rep_link] [branch_name] производит перенос и слияние репозитория с локал
 
 main
 develop
