@@ -6,9 +6,10 @@
 6. git reset [files] -удаляет файлы из stage
 7. git diff показывает измененные строки
 8. git reset --hard  откатить изменения
-9. git branch [название ветки]
+9. git branch [name_brach]
 10. git checkout -переключение м/ду ветками
 11. git pull [rep_link] [branch_name] производит перенос и слияние репозитория с локал
+12. git merge [feature/main-page] перенос ветки
 
 main
 develop
